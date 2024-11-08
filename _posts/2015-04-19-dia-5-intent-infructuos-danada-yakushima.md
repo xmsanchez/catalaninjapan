@@ -10,10 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-8185883865646423773.post-33051629655773494
 blogger_orig_url: https://catalaninjapan.blogspot.com/2015/04/dia-5-intent-infructuos-danada-yakushima.html
 ---
 
-Entrada escrita en data 19/04  
-
-  
-
 Dia 5 - Intent infructuós d'anada a Yakushima :-(  
 
   

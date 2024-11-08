@@ -2,7 +2,7 @@
 layout: post
 title:  "Test de post des de Android"
 categories: [ news ]
-image: assets/images/banner_08-11-2024.jpg
+image: assets/images/2024/banner_android.png
 date: 2024-11-08 19:00:00 +0000
 ---
 Doncs bé, ja que Jekyll és una eina pensada per ser utilitzada des d'un ordinador, estic fent una prova per poder fer posts des d'Android.

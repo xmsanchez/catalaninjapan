@@ -11,10 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-8185883865646423773.post-31945022202248032
 blogger_orig_url: https://catalaninjapan.blogspot.com/2015/04/entrada-escrita-en-data-1404-dia-3.html
 ---
 
-**Entrada escrita en data 14/04**  
-
-  
-
 **Dia 3 (segona meitat) - 13/04**  
 
 Quan vam arribar a Shin-Osaka vam comprar alguna cosa per dinar pel camí i vam agafar el shinkansen cap a Hiroshima. Un cop allà vam anar fins a Miyajima-Guchi, on vam pujar al ferry que ens portava a Miyajima.  
