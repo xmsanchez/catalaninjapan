@@ -1,0 +1,14 @@
+---
+layout: default
+title: "Archive for {{ page.title }}"
+---
+
+<h1>{{ page.title }}</h1>
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.date | date: "%Y" == page.title %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

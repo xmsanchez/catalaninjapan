@@ -1,0 +1,54 @@
+title: "CatalanInJapan"
+email: xmfreak@gmail.com
+timezone: UTC
+baseurl: "/home"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Xavi
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+# ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  Xavi:
+    name: Xavi
+    display_name: Xavi
+    avatar: 'assets/images/xavi.png'
+    email: xmfreak@gmail.com
+    web: https://xavimirandasanchez.com
+    description: "Xavi Miranda. Autor d'aquest blog."
+
+# # Social
+# social:
+#   instagram: https://www.instagram.com/bootstrapstarter/
+#   facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+#   twitter: https://twitter.com/bstartercom
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
+
+jekyll-archives:
+  enabled: true
+  layouts:
+    year: archive
+  permalinks:
+    year: '/:year/'
