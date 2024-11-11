@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Estrenem nou blog! Warning: Post tècnic :-P"
-categories: [ news ]
+categories:
+- news
+date: '2024-11-08'
 image: assets/images/banner_08-11-2024.jpg
-date: 2024-11-08 10:00:00 +0000
+layout: post
+title: "Estrenem nou blog! Warning: Post t\xE8cnic :-P"
 ---
 Després de mooolt de temps amb el meu blog [CatalanInJapan a Blogspot](https://catalaninjapan.blogspot.com/p/start.html), he decidit traslladar-lo a alguna cosa més moderna (tampoc massa, no us penseu).
 
@@ -89,3 +90,5 @@ Simplement cridem l'script, i ens retornarà els fitxers convertits en un perfec
 I fins aquí! A partir d'aquest punt el que ens pot interessar és posar imatges de capçalera, ja que amb blogger no hi eren. El que he fet ha sigut fer un replace des del VisualStudio per afegir una línia "image" amb una imatge "legacy" del blog anterior, genèrica per tots els posts. Si algun dia em poso a modificar un per un per posar alguna foto, doncs bueno... serà que estic molt motivat i m'avorreixo molt.
 
 I això és tot! En el proper post explicaré notícies!!
+
+Update: prova d'edició d'un post
