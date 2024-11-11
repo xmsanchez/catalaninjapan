@@ -1,5 +1,5 @@
 ---
-date: '2024-11-08'
+date: '2024-11-08T19:00:00.000+02:00'
 image: assets/images/2024/banner_android.png
 layout: post
 title: Test de post des de Android

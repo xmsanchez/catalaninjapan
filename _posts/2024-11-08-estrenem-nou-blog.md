@@ -1,7 +1,7 @@
 ---
 categories:
 - news
-date: '2024-11-08'
+date: '2024-11-08T10:00:00.000+02:00'
 image: assets/images/banner_08-11-2024.jpg
 layout: post
 title: "Estrenem nou blog! Warning: Post t\xE8cnic :-P"
