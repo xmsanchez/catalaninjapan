@@ -4,7 +4,7 @@ categories:
 date: '2024-11-08T10:00:00.000+02:00'
 image: assets/images/banner_08-11-2024.jpg
 layout: post
-title: "Estrenem nou blog! Warning: Post t\xE8cnic :-P"
+title: "Estrenem nou blog!"
 ---
 Després de mooolt de temps amb el meu blog [CatalanInJapan a Blogspot](https://catalaninjapan.blogspot.com/p/start.html), he decidit traslladar-lo a alguna cosa més moderna (tampoc massa, no us penseu).
 
