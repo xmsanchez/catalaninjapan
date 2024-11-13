@@ -399,14 +399,21 @@ ul.tags li a:hover {
 }
 
 .btn { 
-    background-color: white;
-    transition: background-color 0.5s
+    color: white;
+    background-color: rgb(0, 0, 0);
+    transition: background-color 0.5s;
 }
 .btn:hover {
-    background-color: #ffb0b0;
+    background-color: #525252;
 }
 .btn-header {
+    background-color: white;
+    transition: background-color 0.5s;
     color: black;
+}
+.btn-header:hover {
+    color: white;
+    background-color: #460000;
 }
 // .btn-header:hover {
 //     color: white;
