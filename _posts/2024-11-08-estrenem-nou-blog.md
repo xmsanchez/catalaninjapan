@@ -1,7 +1,7 @@
 ---
 categories:
 - news
-date: '2024-11-23T08:28:41.369075Z'
+date: '2024-11-08T18:28:41.369075Z'
 image: assets/images/banner_08-11-2024.jpg
 layout: post
 title: Estrenem nou blog!
