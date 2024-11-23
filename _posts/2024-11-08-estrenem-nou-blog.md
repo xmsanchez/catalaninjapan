@@ -1,11 +1,15 @@
 ---
 categories:
 - news
-date: '2024-11-08T10:00:00.000+02:00'
+date: '2024-11-23T08:28:41.369075Z'
 image: assets/images/banner_08-11-2024.jpg
 layout: post
-title: "Estrenem nou blog!"
+title: Estrenem nou blog!
 ---
+Segueixo viu! 9 anys i mig més tard, torno a la càrrega :-)
+
+---
+
 Després de mooolt de temps amb el meu blog [CatalanInJapan a Blogspot](https://catalaninjapan.blogspot.com/p/start.html), he decidit traslladar-lo a alguna cosa més moderna (tampoc massa, no us penseu).
 
 > Avís a navegants: Aquesta entrada serà una mica més tècnica de l'habitual.
