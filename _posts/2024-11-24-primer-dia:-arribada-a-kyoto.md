@@ -1,7 +1,7 @@
 ---
 categories:
 - '2024'
-date: '2024-11-30T14:37:30.432908Z'
+date: '2024-11-24T14:37:30.432908Z'
 image: assets/images/2024/primer-dia:-arribada-a-kyoto-header-2024-11-30.jpg
 layout: post
 title: 'Primer dia: Arribada a Kyoto'
