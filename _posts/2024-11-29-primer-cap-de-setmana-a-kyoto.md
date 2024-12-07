@@ -1,7 +1,7 @@
 ---
 categories:
 - '2024'
-date: '2024-12-07T10:33:35.327249Z'
+date: '2024-11-29T19:33:35.327249Z'
 image: assets/images/2024/primer-cap-de-setmana-a-kyoto-header-2024-12-07.jpg
 layout: post
 title: Primer cap de setmana a Kyoto
